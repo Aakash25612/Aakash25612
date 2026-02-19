@@ -3,12 +3,14 @@
 <h1 align="center">Hi, I'm Aakash 👋</h1>
 <h3 align="center">Senior Mobile & Full Stack Developer | iOS • Android • Web Apps</h3>
 
+<!-- Animated typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2800&pause=700&color=6366F1&center=true&vCenter=true&width=700&lines=Senior+Mobile+App+Developer;Flutter+%7C+Swift+%7C+Kotlin+Expert;Full-Stack+Web+%26+Mobile+Builder;AI-Powered+App+Development;200%2B+Apps+Delivered+Since+2010" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2800&pause=700&color=6366F1&center=true&vCenter=true&width=700&lines=Senior+Mobile+App+Developer;Flutter+%7C+Swift+%7C+Kotlin+Expert;Full-Stack+Web+and+Mobile+Builder;AI-Powered+App+Development;200%2B+Apps+Delivered+Since+2010" />
 </p>
 
+<!-- FIXED Banner (no & symbol) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=220&section=header&text=Building%20Scalable%20Mobile%20%26%20Web%20Apps&fontSize=32&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=220&section=header&text=Building%20Scalable%20Mobile%20and%20Web%20Apps&fontSize=32&fontColor=ffffff" />
 </p>
 
 <p align="center">
@@ -19,6 +21,7 @@
   <img src="https://img.shields.io/badge/Apps%20Delivered-200%2B-success?style=for-the-badge" />
 </p>
 
+<!-- Animated dev gif -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750493-0d6e3b77-6b7c-4c2a-a95f-8f9c9f5c2c82.gif" width="520" />
 </p>
