@@ -4,7 +4,7 @@
 <h3 align="center">Senior Mobile & Full Stack Developer | iOS • Android • Web Apps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=650&lines=Senior+Mobile+App+Developer;Flutter+%7C+Swift+%7C+Kotlin+Expert;AI+Powered+App+Builder;200%2B+Apps+Delivered+Worldwide" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2800&pause=700&color=6366F1&center=true&vCenter=true&width=700&lines=Senior+Mobile+App+Developer;Flutter+%7C+Swift+%7C+Kotlin+Expert;Full-Stack+Web+%26+Mobile+Builder;AI-Powered+App+Development;200%2B+Apps+Delivered+Since+2010" />
 </p>
 
 <p align="center">
@@ -17,6 +17,10 @@
   </a>
   <img src="https://img.shields.io/badge/Experience-8%2B%20Years-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Apps%20Delivered-200%2B-success?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750493-0d6e3b77-6b7c-4c2a-a95f-8f9c9f5c2c82.gif" width="520" />
 </p>
 
 ---
@@ -48,28 +52,15 @@ I specialize in:
 ## 🧠 What I Build
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,swift,kotlin,react,nextjs,nodejs,laravel,firebase,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=flutter,swift,kotlin,react,nextjs,nodejs,laravel,firebase,mongodb,mysql" />
 </p>
 
-✔️ Mobile Apps with Admin Panels  
+✔️ Mobile Apps with Web Admin Panels  
 ✔️ AI-Powered Applications  
 ✔️ SaaS Platforms  
 ✔️ API Development & Integrations  
 ✔️ Real-Time Chat & WebSockets  
-✔️ Payment Gateways (Stripe, Razorpay)  
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=github&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=github&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=github&theme=tokyo-night&hide_border=true" />
-</p>
+✔️ Payment Gateways (Stripe, Razorpay)
 
 ---
 
@@ -136,16 +127,6 @@ I specialize in:
 
 ---
 
-## 🧩 Development Approach
-
-- Agile Scrum workflows
-- Clean scalable architecture
-- Strong UI/UX focus
-- App Store & Play Store compliance
-- Full IP ownership and GitHub delivery
-
----
-
 ## 🌎 Let's Connect
 
 <p align="center">
@@ -155,7 +136,14 @@ I specialize in:
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=6366f1&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Aakash25612&label=Profile%20Views&color=6366f1&style=flat" />
+</p>
+
+---
+
+<!-- Snake animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aakash25612/Aakash25612/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
