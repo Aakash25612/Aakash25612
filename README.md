@@ -35,7 +35,7 @@ I help startups and enterprises transform ideas into scalable, high-performance 
 
 I specialize in:
 
-- Flutter, Swift (iOS), Kotlin (Android)
+- Flutter, React Native , Swift (iOS), Kotlin (Android)
 - AI-powered mobile apps
 - SaaS platforms & scalable backend systems
 - Real-time chat, streaming & on-demand platforms
