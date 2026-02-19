@@ -1,9 +1,11 @@
-## Hi there 👋
-
-<!--<!-- ======================= HEADER / BANNER ======================= -->
+<!-- ======================= HEADER / BANNER ======================= -->
 
 <h1 align="center">Hi, I'm Aakash 👋</h1>
 <h3 align="center">Senior Mobile & Full Stack Developer | iOS • Android • Web Apps</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=650&lines=Senior+Mobile+App+Developer;Flutter+%7C+Swift+%7C+Kotlin+Expert;AI+Powered+App+Builder;200%2B+Apps+Delivered+Worldwide" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=220&section=header&text=Building%20Scalable%20Mobile%20%26%20Web%20Apps&fontSize=32&fontColor=ffffff" />
@@ -33,9 +35,21 @@ I specialize in:
 
 ---
 
+## 💼 Why Clients Work With Me
+
+✔️ 200+ Apps Delivered Across Startups & Enterprises  
+✔️ Fast MVP Development with Production-Level Architecture  
+✔️ Clean UI/UX with Performance Optimization  
+✔️ Full App Store Deployment & Compliance  
+✔️ Long-Term Scalable Backend Design  
+
+---
+
 ## 🧠 What I Build
 
+<p align="center">
 <img src="https://skillicons.dev/icons?i=flutter,swift,kotlin,react,nextjs,nodejs,laravel,firebase,mongodb,mysql" />
+</p>
 
 ✔️ Mobile Apps with Admin Panels  
 ✔️ AI-Powered Applications  
@@ -43,6 +57,19 @@ I specialize in:
 ✔️ API Development & Integrations  
 ✔️ Real-Time Chat & WebSockets  
 ✔️ Payment Gateways (Stripe, Razorpay)  
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=github&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=github&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=github&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
@@ -100,21 +127,14 @@ I specialize in:
 
 ---
 
-### 🌱 Indie / Small-Scale App Style Projects
+## 🚧 Currently Building
 
-<p align="center">
+- AI-powered mobile applications
+- Social commerce & SaaS platforms
+- Real-time sports partner mobile app
+- High-performance Flutter & Swift UI systems
 
-<a href="https://apps.apple.com/za/app/app-workspace-for-indie-devs/id6756608708">
-<img src="https://img.shields.io/badge/App%20Workspace%20for%20Indie%20Devs-App%20Store-black?style=flat-square&logo=apple" />
-</a>
-
-<a href="https://apps.apple.com/uz/app/time-dot-life-year-dots/id6758912080">
-<img src="https://img.shields.io/badge/TimeDot%20Life%20Year%20Dots-App%20Store-black?style=flat-square&logo=apple" />
-</a>
-
-</p>
-
-
+---
 
 ## 🧩 Development Approach
 
@@ -134,22 +154,12 @@ I specialize in:
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=6366f1&style=flat" />
+</p>
+
 ---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=120&section=footer"/>
 </p>
-
-**Aakash25612/Aakash25612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
