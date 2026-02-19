@@ -68,35 +68,53 @@ I specialize in:
 
 ---
 
-## 📊 GitHub Stats
+## 📱 Apps Delivered
 
 <p align="center">
 
-  <!-- Fake Profile Stats -->
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=github&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<a href="https://apps.apple.com/in/app/habitverse-habit-tracker/id6757547352">
+<img src="https://img.shields.io/badge/HabitVerse%20Habit%20Tracker-App%20Store-black?style=for-the-badge&logo=apple" />
+</a>
 
-  <!-- Fake Streak Stats -->
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=github&theme=tokyonight&hide_border=true" />
+<a href="https://apps.apple.com/us/app/ryze-bangladesh/id6736612816">
+<img src="https://img.shields.io/badge/Ryze%20Bangladesh-App%20Store-black?style=for-the-badge&logo=apple" />
+</a>
 
-</p>
+<a href="https://apps.apple.com/np/app/fit-flow-nepal/id6446803455">
+<img src="https://img.shields.io/badge/Fit%20Flow%20Nepal-App%20Store-black?style=for-the-badge&logo=apple" />
+</a>
 
-<p align="center">
+<a href="https://play.google.com/store/apps/details?id=com.smartGymNepal.abgroup&hl=en">
+<img src="https://img.shields.io/badge/SmartGym%20Nepal-Google%20Play-green?style=for-the-badge&logo=google-play" />
+</a>
 
-  <!-- Fake Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=github&layout=compact&theme=tokyonight&hide_border=true" />
+<a href="https://apps.apple.com/in/app/lifetime-performance/id1456396366">
+<img src="https://img.shields.io/badge/Lifetime%20Performance-App%20Store-black?style=for-the-badge&logo=apple" />
+</a>
+
+<a href="https://apps.apple.com/in/app/tranquil-ai/id6738845854">
+<img src="https://img.shields.io/badge/Tranquil%20AI-App%20Store-black?style=for-the-badge&logo=apple" />
+</a>
 
 </p>
 
 ---
 
-## 🔥 Contribution Activity
+### 🌱 Indie / Small-Scale App Style Projects
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=github&theme=tokyo-night&hide_border=true" />
+
+<a href="https://apps.apple.com/za/app/app-workspace-for-indie-devs/id6756608708">
+<img src="https://img.shields.io/badge/App%20Workspace%20for%20Indie%20Devs-App%20Store-black?style=flat-square&logo=apple" />
+</a>
+
+<a href="https://apps.apple.com/uz/app/time-dot-life-year-dots/id6758912080">
+<img src="https://img.shields.io/badge/TimeDot%20Life%20Year%20Dots-App%20Store-black?style=flat-square&logo=apple" />
+</a>
+
 </p>
 
 
----
 
 ## 🧩 Development Approach
 
